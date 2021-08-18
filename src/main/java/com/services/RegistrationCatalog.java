@@ -29,7 +29,7 @@ public class RegistrationCatalog {
         this.className = className;
         this.classSize = classSize;
     }
-
+    //this is a test comment
     public RegistrationCatalog(String className, String students){
         this.className = className;
         this.students.add(students);
